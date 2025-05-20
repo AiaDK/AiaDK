@@ -1,16 +1,24 @@
-## Hi there 👋
+## 💼 About Me
 
-<!--
-**AiaDK/AiaDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently completing my MSc in Quantitative Finance, where I focus on the intersection of **econometrics, statistics, and financial markets**. My interests include financial modeling, macroeconomic analysis, and building reproducible, data-driven pipelines for research and decision-making.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interests & Skills
+
+- **Programming**: R, Python, SQL, MATLAB
+- **Tools**: Git/GitHub, Refinitiv Eikon, LaTeX, Excel, YAML, Jupyter
+
+---
+
+## 🌱 Currently Learning
+
+- Microsoft Azure & Cloud Fundamentals (Data & AI track)
+- Microsoft Power BI 
+- Machine learning for trading strategies  
+
+---
+
+## 📫 How to Reach Me
+ 
+- ✉️ [Email](aicholpon.dk@gmail.com)
