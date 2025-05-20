@@ -13,8 +13,8 @@ I'm currently completing my MSc in Quantitative Finance, where I focus on the in
 
 ## 🌱 Currently Learning
 
-- Microsoft Azure & Cloud Fundamentals (Data & AI track)
-- Microsoft Power BI 
+- Microsoft Azure (Data & AI track)  
+- Power BI & Microsoft Power Platform 
 - Machine learning for trading strategies  
 
 ---
