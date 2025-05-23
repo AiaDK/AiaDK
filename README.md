@@ -6,13 +6,14 @@ I'm currently completing my MSc in Quantitative Finance, where I focus on the in
 
 ## 🧠 Interests & Skills
 
-- **Programming**: R, Python, SQL, MATLAB
+- **Programming**: R, Python, MATLAB
 - **Tools**: Git/GitHub, Refinitiv Eikon, LaTeX, Excel, YAML, Jupyter
 
 ---
 
 ## 🌱 Currently Learning
 
+- PostgreSQL 
 - Microsoft Azure (Data & AI track)  
 - Power BI & Microsoft Power Platform 
 - Machine learning for trading strategies  
